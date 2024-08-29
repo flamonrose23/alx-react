@@ -10,7 +10,7 @@
     "start": "webpack-dev-server --mode development --config config/webpack.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fatine Marikaz",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.25.2",
